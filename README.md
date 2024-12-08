@@ -1,7 +1,5 @@
 Building your Deep Neural Network: Step by Step
 
-Welcome to task 04! You have previously trained a 2-layer Neural Network (with a single hidden layer). This time, you will build a deep neural network, with as many layers as you want!
-
 - In this task, you will implement all the functions required to build a deep neural network.
 - In the next task, you will use these functions to build a deep neural network for image classification.
 
@@ -18,4 +16,3 @@ Welcome to task 04! You have previously trained a 2-layer Neural Network (with a
 - Lowerscript $i$ denotes the $i^{th}$ entry of a vector.
     - Example: $a^{[l]}_i$ denotes the $i^{th}$ entry of the $l^{th}$ layer's activations).
 
-Let's get started!
